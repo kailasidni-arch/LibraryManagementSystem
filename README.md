@@ -72,23 +72,6 @@ private static final String PASSWORD = ""; // your MySQL password
 4. Click **Run** (F6)
 
 ---
-
-## 📸 Screenshots
-
-### Books Management
-![Books Management](screenshots/books.png)
-
-### Members Management
-![Members Management](screenshots/members.png)
-
-### Issue & Return
-![Issue Return](screenshots/issue-return.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## 📝 Notes
 
 - Make sure MySQL server is running before launching the application
